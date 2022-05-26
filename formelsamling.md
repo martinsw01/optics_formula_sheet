@@ -2,7 +2,7 @@
 
 [ToC]
 
-## Geometrical optics
+## Geometrical opticss
 #### Snell's law
 $$
 n_i \sin\theta_i = n_t \sin\theta_t
